@@ -20,6 +20,7 @@ You’ll learn how:
 
 ## 📂 Dataset
 
+📁 Dataset https://www.kaggle.com/datasets/kyanyoga/sample-sales-data
 The project uses a sample sales dataset (`sales_data_sample.csv`) with features such as:
 - `QUANTITYORDERED`
 - `PRICEEACH`
